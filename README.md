@@ -26,9 +26,9 @@ To install Git, download the installer for your operating system (Windows, macOS
 - Open Terminal (macOS/Linux) or Command Prompt/Git Bash (Windows).
 
 - Run:
-
+```bash
 `git --version`
-
+```
 - If Git is installed, you’ll see the version number. If not, proceed with installation.
 
 2. Windows Installation
